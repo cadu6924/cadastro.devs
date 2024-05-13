@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #7ca5b8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fundo {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  
+}
+.centro {
+    border: 4px solid #e6e8e6;
+}
+h1 {
+    color: #e0e1dd;
+    font-size: 50px;
+ 
+}
+
+div {
+    font-size: 25px;
+    padding: 15px;
+}
+
+button {
+    font-size: 15px;
+    border-style: double;
+}
+
+input{
+    font-size: 15px;
+    border-style: double;
+}
+
+.image{
+    width: 360px;
+}
